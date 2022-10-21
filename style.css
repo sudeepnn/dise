@@ -55,4 +55,18 @@ body
     height: 50px;
     width: 80px;
 }
+.player1{
+    position: absolute;
+    display: inline;
+    width: 200px;
+    left: 5%;
+    
+}
+.player2{
+    position: absolute;
+    display: inline;
+    width: 200px;
+    right: 5%;
+    
+}
 }
